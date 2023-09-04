@@ -56,7 +56,7 @@ We have broke this priject into two parts
  
  10 pause
  
-The Model 1 contain's the first part of the project where the lip landmarks are obtained the are converted into tensors
+The Model 1 contain's the first part of the project where the lip landmarks are obtained and are converted into tensors
 
 Model 2 takes data from dataset folder and identifies the lip landmarks converts them into tensor and then load it into the data loader
 and runs it through a simple CNN network and training loop
